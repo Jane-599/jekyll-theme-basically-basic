@@ -20,7 +20,7 @@ description: "Jane's personal website"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name: jianyuying
   twitter:
   picture:
 twitter_username:
